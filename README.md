@@ -2,7 +2,7 @@
 
 ## About
 
-A C++ program to handle cash deposits, withdrawals, transactions, and more, in a fictional library. Presented to you by CodeMaster7000 and TechDreams Innovations Labs!
+A C++ program to handle cash deposits, withdrawals, transactions, and more. Presented to you by CodeMaster7000 and CodeMaster7000 Studios!
 
 ## Instructions for Usage
 
